@@ -51,7 +51,7 @@ const Layout = () => {
 
         <div className="px-3 py-4 border-t border-white/10">
           <a
-            href="http://localhost:5173"
+            href="https://eliseobeauty.com"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm text-stone-300 hover:bg-white/10 hover:text-white transition"
