@@ -8,7 +8,7 @@ async function request(path, { method = 'GET', body, isForm = false } = {}) {
     method,
     headers,
     body: body === undefined ? undefined : isForm ? body : JSON.stringify(body),
-  })
+  }) 
 
   let data = null
   try {
